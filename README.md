@@ -1,3 +1,4 @@
+[![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)]
 <h1 align="center">Hi 👋, I'm Tanay Panchal</h1>
 <h3 align="center">I'm a Front-End Developer | Freelance Web Developer | Passionate about creating interactive and responsive user interfaces.</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=6c09b9520bfca9cdpvo9hha0bk0wh1p2ptblv93zn2ob410f&ep=v1_gifs_search&rid=200w.gif&ct=g"/>
