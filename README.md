@@ -11,7 +11,7 @@
 - 💬 Ask me about **web development**
 
 - 📫 How to reach me **www.tanaypanchal7@gmail.com**
-- 
+  
 <h3 align="left">👋 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tanay panchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanay panchal" height="30" width="40" /></a>
