@@ -1,4 +1,4 @@
-[MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
+![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 <h1 align="center">Hi 👋, I'm Tanay Panchal</h1>
 <h3 align="center">I'm a Front-End Developer | Freelance Web Developer | Passionate about creating interactive and responsive user interfaces.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **www.tanaypanchal7@gmail.com**
 - 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">👋 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tanay panchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanay panchal" height="30" width="40" /></a>
 </p>
