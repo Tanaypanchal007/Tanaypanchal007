@@ -3,10 +3,10 @@
 ### Front-End Developer • React.js Developer • Freelance Web Developer
 
 <p align="left">
-  <a href="https://tanaypanchal.me">
+  <a href="https://tanaypanchal.me" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-tanaypanchal.me-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/tanay-panchal-247519272/">
+  <a href="https://www.linkedin.com/in/tanay-panchal-247519272/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:www.tanaypanchal7@gmail.com">
@@ -22,7 +22,7 @@ I enjoy transforming ideas and designs into clean, scalable and user-friendly di
 
 - 🎓 MCA Student
 - 💻 Specialized in **React.js & Next.js**
-- 🎨 Love building modern UI with **Tailwind CSS**
+- 🎨 Building modern interfaces with **Tailwind CSS**
 - 🚀 Freelance Web Developer
 - 🌱 Currently learning **Node.js & Backend Development**
 - 🧠 Strengthening **DSA & Problem Solving**
@@ -34,19 +34,19 @@ I enjoy transforming ideas and designs into clean, scalable and user-friendly di
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 🎨 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
 </p>
 
-### Backend & Database
+### ⚙️ Backend & Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,firebase" />
 </p>
 
-### Programming & Tools
+### 💻 Programming & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,cpp,c,git,github,vscode,figma,vercel" />
@@ -127,7 +127,7 @@ React.js • Next.js • Tailwind CSS • Firebase
 
 ### 💼 Freelance Projects
 
-I've worked on real-world websites for clients using modern frontend technologies.
+Real-world websites developed for clients using modern frontend technologies.
 
 **Core Stack**
 
@@ -144,31 +144,6 @@ Next.js • React.js • Tailwind CSS • Firebase
 </td>
 </tr>
 </table>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=tanaypanchal007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanaypanchal007&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=tanaypanchal007&theme=tokyonight&hide_border=true"
-  />
-</p>
 
 ---
 
@@ -219,10 +194,10 @@ Next.js • React.js • Tailwind CSS • Firebase
 I'm always interested in discussing **web development, freelance projects, collaboration and new ideas.**
 
 <p align="center">
-  <a href="https://tanaypanchal.me">
+  <a href="https://tanaypanchal.me" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-111827?style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/tanay-panchal-247519272/">
+  <a href="https://www.linkedin.com/in/tanay-panchal-247519272/" target="_blank">
     <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge" />
   </a>
 </p>
